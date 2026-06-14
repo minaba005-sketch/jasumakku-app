@@ -1,0 +1,15 @@
+{
+  "name": "じゃすまっく生活費",
+  "short_name": "生活費管理",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F6F4EE",
+  "theme_color": "#1F4E3D",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
